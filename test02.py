@@ -1,3 +1,4 @@
+# Test new commit
 keys_list = ['A', 'B', 'C']
 values_list = ['blue', 'red', 'bold']
 
